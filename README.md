@@ -1,6 +1,6 @@
 # Car-Sales-Dashboard
 
-<img src=https://scitechdaily.com/images/Diabetes-Treatments.jpg](https://media.istockphoto.com/id/480652712/photo/dealer-new-cars-stock.jpg?s=612x612&w=0&k=20&c=Mzfb5oEeovQblEo160df-xFxfd6dGoLBkqjjDWQbd5E=>
+<img src=[https://scitechdaily.com/images/Diabetes-Treatments.jpg](https://media.istockphoto.com/id/480652712/photo/dealer-new-cars-stock.jpg?s=612x612&w=0&k=20&c=Mzfb5oEeovQblEo160df-xFxfd6dGoLBkqjjDWQbd5E=](https://media.istockphoto.com/id/480652712/photo/dealer-new-cars-stock.jpg?s=612x612&w=0&k=20&c=Mzfb5oEeovQblEo160df-xFxfd6dGoLBkqjjDWQbd5E=)>
 
 ### **Project Overview**
 
